@@ -1,0 +1,61 @@
+html, body{
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    /* The image used */
+    background-image: url(imagens/background.jpg);
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+h5{
+    color: white;
+    margin-bottom: 50px;
+}
+
+h3{
+    color: #3aadbf;
+    margin-bottom: 20px;
+}
+
+
+#banner{
+    margin-top: 20px;
+    margin-bottom: 50px;
+   
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #f4da50;
+}
+
+#instaface{
+    margin-bottom: 100px;
+}
+
+#imagem{
+    margin-bottom: 50px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#principal{
+    margin-top: 40px;
+}
